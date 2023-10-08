@@ -1,0 +1,45 @@
+{
+    "blogPosts": [
+      {
+        "id": 1,
+        "title": "Activation Function In Neural Networks",
+        "content": "Lorem ipsum dolor sit amet...",
+        "date":"Sep 27, 2020",
+        "tags": ["tag1", "tag2"],
+        "images": "https://djinit-ai.github.io/images/Apriori-Algorithm-1.png",
+        "description":"Ever wondered how predicting the future at every stage of our lives will make our lives so convenient? Because what we don’t realise is, our life is filled with patterns. Won’t it be great to analyse these already existing patterns to make our lives easier? Well, don’t worry, Data Mining has got you covered. Data mining is the exploration and analysis of large data to discover meaningful patterns and rules."
+      },
+      {
+        "id": 2,
+        "title": "Algorithmic Trading",
+        "content": "Lorem ipsum dolor sit amet...",
+        "date":"Sep 27, 2020",
+        "tags": ["tag2", "tag3"],
+        "description":"Ever wondered how predicting the future at every stage of our lives will make our lives so convenient? Because what we don’t realise is, our life is filled with patterns. Won’t it be great to analyse these already existing patterns to make our lives easier? Well, don’t worry, Data Mining has got you covered. Data mining is the exploration and analysis of large data to discover meaningful patterns and rules."
+      },
+      {
+        "id": 3,
+        "title": "Apriori Algorithm",
+        "content": "Lorem ipsum dolor sit amet...",
+        "date" :"Sep 22, 2020",
+        "tags": ["tag1", "tag3"],
+        "description":"Ever wondered how predicting the future at every stage of our lives will make our lives so convenient? Because what we don’t realise is, our life is filled with patterns. Won’t it be great to analyse these already existing patterns to make our lives easier? Well, don’t worry, Data Mining has got you covered. Data mining is the exploration and analysis of large data to discover meaningful patterns and rules."
+      },
+      {
+        "id": 4,
+        "title": " Artificial Intelligence-The Future of Football",
+        "content": "Lorem ipsum dolor sit amet...",
+        "date":"Sep 20, 2020",
+        "tags": ["tag4"],
+        "description":"Ever wondered how predicting the future at every stage of our lives will make our lives so convenient? Because what we don’t realise is, our life is filled with patterns. Won’t it be great to analyse these already existing patterns to make our lives easier? Well, don’t worry, Data Mining has got you covered. Data mining is the exploration and analysis of large data to discover meaningful patterns and rules."
+      },
+      {
+        "id": 5,
+        "title": "Blog Post 5",
+        "content": "Lorem ipsum dolor sit amet...",
+        "tags": ["tag1", "tag5"],
+        "description":"Ever wondered how predicting the future at every stage of our lives will make our lives so convenient? Because what we don’t realise is, our life is filled with patterns. Won’t it be great to analyse these already existing patterns to make our lives easier? Well, don’t worry, Data Mining has got you covered. Data mining is the exploration and analysis of large data to discover meaningful patterns and rules."
+      }
+    ]
+  }
+  
